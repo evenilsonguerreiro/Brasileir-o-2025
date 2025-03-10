@@ -1,0 +1,56 @@
+
+body {
+    padding-top: 60px;
+    background-color: #0be881;
+
+}
+.navbar {
+    background-color: #0be881;
+}
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: auto;
+}
+.text-link-h1 {
+    color: #1e272e;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-link {
+    color: #1e272e;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.carrosel-img  {
+    width: 1500px;
+    height: 300px;   
+}
+
+
+.card img {
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    display: block; /* Garante que a imagem seja tratada como um bloco */
+    margin-left: auto; /* Centraliza horizontalmente */
+    margin-right: auto; /* Centraliza horizontalmente */
+}
+.btn-butão {
+    background-color: #000; 
+    color: #dbe2e7;
+}
+.bg-card {
+    background-color: #101111bb;
+}
+.card-title, p {
+    color: #dbe2e7;
+}
+#times {
+    margin-top: 90px;
+}
+#times, h2 {
+    color:#1e272e;
+    margin-bottom: 20px;
+    
+}
